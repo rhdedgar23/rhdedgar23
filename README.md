@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @rhdedgar23
-- 👀 I’m interested in physics.
-- 🌱 I’m currently learning computer science.
+- 👋 Hi, I’m Edgar Rodriguez. 
+- 👀 I’m interested in physics and computer science. 
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me: rhdedgar23@gmail.com
 
